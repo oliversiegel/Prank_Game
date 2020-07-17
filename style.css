@@ -9,3 +9,12 @@ body
     background-image: radial-gradient(purple, pink, blue); 
     
 }
+
+button#b1
+{
+	background-color:maroon;
+}
+button#b2
+{
+	background-color:maroon;
+}
